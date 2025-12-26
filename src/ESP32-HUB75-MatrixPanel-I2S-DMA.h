@@ -237,6 +237,7 @@ struct HUB75_I2S_CFG
   {
     SHIFTREG = 0,
     FM6124,
+    FM6124C,
     FM6126A,
     ICN2038S,
     MBI5124,
